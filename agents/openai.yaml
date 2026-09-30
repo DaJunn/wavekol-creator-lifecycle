@@ -1,4 +1,4 @@
 interface:
-  display_name: "WaveKOL 达人生命周期"
-  short_description: "Manage creator lifecycle status"
-  default_prompt: "Use $wavekol-creator-lifecycle to manage creator status, handoffs, and lifecycle actions."
+  display_name: "WaveKOL 带货者生命周期管理"
+  short_description: "整理带货者阶段、跟进证据、负责人及下一步，减少试播后遗漏"
+  default_prompt: "用 $wavekol-creator-lifecycle 整理带货者状态、跟进人、下一步和待确认事项。"
