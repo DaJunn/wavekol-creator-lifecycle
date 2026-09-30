@@ -1,0 +1,4 @@
+interface:
+  display_name: "WaveKOL 达人生命周期"
+  short_description: "Manage creator lifecycle status"
+  default_prompt: "Use $wavekol-creator-lifecycle to manage creator status, handoffs, and lifecycle actions."
